@@ -1,0 +1,89 @@
+# mini gifts — Generative Engine Optimization Map
+
+> A מתנות ועיצוב הבית business.
+
+---
+
+## Pages
+
+### בית
+https://mini-gifts-424ce5a6.zappy5.app
+
+### הסיפור
+https://mini-gifts-424ce5a6.zappy5.app/story
+
+### אירועים
+https://mini-gifts-424ce5a6.zappy5.app/occasions
+
+### צור קשר
+https://mini-gifts-424ce5a6.zappy5.app/contact
+
+### Products
+https://mini-gifts-424ce5a6.zappy5.app/products
+המוצרים שלנו - mini gifts
+
+### Cart
+https://mini-gifts-424ce5a6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://mini-gifts-424ce5a6.zappy5.app/checkout
+תשלום
+
+### Login
+https://mini-gifts-424ce5a6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://mini-gifts-424ce5a6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://mini-gifts-424ce5a6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://mini-gifts-424ce5a6.zappy5.app/product/:slug
+פרטי המוצר - mini gifts
+
+### Category
+https://mini-gifts-424ce5a6.zappy5.app/category/:slug
+מוצרים - mini gifts
+
+## Legal & Policy
+
+### Privacy Policy
+https://mini-gifts-424ce5a6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mini-gifts-424ce5a6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mini-gifts-424ce5a6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About mini gifts
+mini gifts is a business in the מתנות ועיצוב הבית industry.
+
+## Target Audience
+- חובבי מתנות ייחודיות
+- בעלי בתים חדשים
+- מחפשי מתנות עסקיות
+- קונים לעונת החגים
+- חובבי עיצוב פנים
+
+## Industry
+מתנות ועיצוב הבית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://mini-gifts-424ce5a6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mini-gifts-424ce5a6.zappy5.app/robots.txt
